@@ -14,5 +14,4 @@ This program calculates the total travel fare based on the passenger's travel di
 - Process: Checks the inputs before calculating the total fare using PHP 14 per kilometer.
 - Output: Displays the passenger's name and total fare in Philippine pesos.
 - Validation: Checks that the name is not empty, the distance is greater than 0, and the passenger count is a positive whole number.
-n.
 
